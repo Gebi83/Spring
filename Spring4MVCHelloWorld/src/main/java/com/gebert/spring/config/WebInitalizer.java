@@ -1,4 +1,4 @@
-package com.javahash.spring.config;
+package com.gebert.spring.config;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;

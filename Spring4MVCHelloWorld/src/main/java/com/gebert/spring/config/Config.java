@@ -1,4 +1,4 @@
-package com.javahash.spring.config;
+package com.gebert.spring.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -10,7 +10,7 @@ import org.springframework.web.servlet.view.UrlBasedViewResolver;
 //Marks this class as configuration
 @Configuration
 // Specifies which package to scan
-@ComponentScan("com.javahash.spring")
+@ComponentScan("com.gebert.spring")
 // Enables Spring's annotations
 @EnableWebMvc
 public class Config {
